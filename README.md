@@ -1,12 +1,4 @@
-# Recruitment Task
-
-Task was to create databse .
-
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
-# Task description
+# Recruitment Task description
 
 The task was to create a movie database with movie data and actors, and a user interface where you are able to search on both actors and movie titles.When you click on an actor you should get all the information about this actor, and below this you should see a list of movies that the actor have participated in. And the opposite when you click on a movie.
 
