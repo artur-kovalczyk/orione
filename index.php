@@ -61,7 +61,6 @@ $database = new PgSql();
 
 <!-- Bootstrap core JavaScript -->
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script src="inc/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="inc/scripts-pg.js"></script>
 
 </body>
