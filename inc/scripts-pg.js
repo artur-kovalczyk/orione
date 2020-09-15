@@ -79,7 +79,7 @@ function GetMovieInfo(request_type, request_name){
                 var actors = response[i].actors;
                 var year = response[i].premiere_year;
                 tr_str += '<li><h5><strong>Year from: </strong>'+year+'</h5></li>';
-                if(actors != null){
+                if(actors != ''){
                     tr_str += '<li><h5><strong>Cast: </strong>'+actors+'</h5></li>';
                     }
              }
