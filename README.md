@@ -1,4 +1,4 @@
-# Recruitment Task description
+# OriOne -  www.geonord.no - Recruitment Task
 
 The task was to create a movie database with movie data and actors, and a user interface where you are able to search on both actors and movie titles.When you click on an actor you should get all the information about this actor, and below this you should see a list of movies that the actor have participated in. And the opposite when you click on a movie.
 
